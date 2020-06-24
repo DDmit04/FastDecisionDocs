@@ -1,8 +1,13 @@
 hackaton.fastdisision
 hackaton.fastdisision.config
+hackaton.fastdisision.config.auth
+hackaton.fastdisision.config.auth.extractors
+hackaton.fastdisision.config.web
 hackaton.fastdisision.controller
 hackaton.fastdisision.data
 hackaton.fastdisision.excaptions
 hackaton.fastdisision.repo
 hackaton.fastdisision.service
+hackaton.fastdisision.service.implementation
+hackaton.fastdisision.service.intrface
 hackaton.fastdisision.views
